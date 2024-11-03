@@ -7,7 +7,7 @@ Robotics Engineering
 I’m currently a Student at Chiang Mai University Department of Robotics Engineering and Artificial Intelligence.
 
 * 🌍  I'm based in Chiang Mai, Thailand
-* ✉️  You can contact me at [phytes.narawit@gmail.com](mailto:phytes.narawit@gmail.com)
+* ✉️  You can contact me at [narawit_i@cmu.ac.th](mailto:phytes.narawit@gmail.com)
 * 🧠  I'm learning Robot Operating System (ROS)
 
 ### Skills
